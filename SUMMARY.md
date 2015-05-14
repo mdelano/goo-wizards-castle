@@ -10,7 +10,7 @@
 * [Chapter 4](chapter4.md)
 * [Chapter 5](chapter5.md)
 * [Chapter 6](chapter6.md)
-* Chapter 7
+* [Chapter 7](chapter7.md)
 * Chapter 8
 * Chapter 9
 * Chapter 10
