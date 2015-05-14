@@ -1,4 +1,5 @@
 {
+    "gitbook": ">=2.0.0",
     "title": "The Good Wizard's Castle",
     "description": "This is such a great book!",
     "isbn": "978-3-16-148410-0",
