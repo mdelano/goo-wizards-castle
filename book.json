@@ -2,7 +2,7 @@
     "title": "The Good Wizards Castle",
     "description": "This is such a great book!",
     "isbn": "978-3-16-148410-0",
-    "language": "fr",
+    "language": "en",
     "direction": "ltr",
     "styles": {
         "website": "website.css",
