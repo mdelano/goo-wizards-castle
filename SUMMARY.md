@@ -25,5 +25,5 @@
 * [Chapter 19](chapter19.md)
 * [Chapter 20](chapter20.md)
 * [Chapter 21](chapter21.md)
-* Chapter 22
+* [Chapter 22](chapter22.md)
 
