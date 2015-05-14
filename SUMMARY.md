@@ -23,7 +23,7 @@
 * [Chapter 17](chapter17.md)
 * [Chapter 18](chapter18.md)
 * [Chapter 19](chapter19.md)
-* Chapter 20
+* [Chapter 20](chapter20.md)
 * Chapter 21
 * Chapter 22
 
