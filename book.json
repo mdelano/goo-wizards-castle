@@ -3,7 +3,7 @@
     "description": "This is such a great book!",
     "isbn": "978-3-16-148410-0",
     "language": "fr",
-    "direction": "rtl",
+    "direction": "ltr",
     "styles": {
         "website": "website.css",
         "ebook": "ebook.css",
