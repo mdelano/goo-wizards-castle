@@ -18,7 +18,7 @@
 * [Chapter 12](chapter12.md)
 * [Chapter 13](chapter13.md)
 * [Chapter 14](chapter14.md)
-* Chapter 15
+* [Chapter 15](chapter15.md)
 * Chapter 16
 * Chapter 17
 * Chapter 18
