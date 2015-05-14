@@ -13,7 +13,7 @@
 * [Chapter 7](chapter7.md)
 * [Chapter 8](chapter8.md)
 * [Chapter 9](chapter9.md)
-* Chapter 10
+* [Chapter 10](chapter19.md)
 * Chapter 11
 * Chapter 12
 * Chapter 13
