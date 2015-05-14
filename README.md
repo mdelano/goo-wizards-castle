@@ -1,4 +1,4 @@
-My Awesome Book
+The Good Wizards Castle
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+A story of a young boy who has been orphaned and who comes to know those in the good wizard, Myrddin's, castle, and castle woods. It's a fairy tale of magic, goodness and second chances.
